@@ -1,8 +1,3 @@
-Here is the updated `README.md` file.
-
-The "Results" section is updated to reflect your real-world testing, and the "How to Use" section is now split into "Training" and "Inference" for clarity.
-
-````markdown
 # Dry Fruit Grade Classification
 
 This project uses a deep learning model to classify images of dry fruits (like almonds and cashews) into different quality grades (e.g., Grade A, Grade B).
@@ -99,4 +94,3 @@ The training was performed in a Google Colab notebook using a T4 GPU, following 
     
     print(f"Prediction: {predicted_class_name} | Confidence: {confidence*100:.2f}%")
     ```
-````
